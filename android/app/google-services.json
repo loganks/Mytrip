@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921442820866",
+    "project_id": "mytrip-65bd3",
+    "storage_bucket": "mytrip-65bd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921442820866:android:706e2f7b84e02b9f09d81b",
+        "android_client_info": {
+          "package_name": "com.logan.mytrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921442820866-rkj3vq6ljq8bd5j6vatl8vqf56f3qv0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Q8_IW9AP6uoCOMsryFyrs1HQQyJzFnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921442820866-rkj3vq6ljq8bd5j6vatl8vqf56f3qv0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
